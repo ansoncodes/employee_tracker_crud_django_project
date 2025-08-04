@@ -20,9 +20,6 @@ This is a simple web-based Employee Management System built with Django. It allo
 - Django Crispy Forms
 
 
-bash
-Copy
-Edit
 
 ## Setup Instructions
 
@@ -53,9 +50,7 @@ python manage.py makemigrations
 python manage.py migrate
 Run the development server
 
-bash
-Copy
-Edit
+
 python manage.py runserver
 Open in browser
 
@@ -75,9 +70,7 @@ A separate view lists all existing employees with options to edit or delete.
 License
 This project is open source and available under the MIT License.
 
-yaml
-Copy
-Edit
+
 
 ---
 
@@ -89,5 +82,3 @@ Let me know if you'd like to personalize it further (like adding your name, Link
 
 
 
-
-Ask ChatGPT
