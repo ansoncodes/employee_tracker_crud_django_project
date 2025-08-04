@@ -27,12 +27,12 @@ This is a simple web-based Employee Management System built with Django. It allo
 git clone https://github.com/your-username/employee_tracker_crud_django_project.git
 cd employee_tracker_crud_django_project
 ```
-###2. Create and Activate a Virtual Environment
+### 2. Create and Activate a Virtual Environment
 ```bash
 python -m venv venv
 venv\Scripts\activate   # On Windows
 ```
-###3. Install Dependencies
+### 3. Install Dependencies
 ```bash
 pip install -r requirements.txt
 ```
@@ -41,16 +41,16 @@ pip install -r requirements.txt
 python manage.py makemigrations
 python manage.py migrate
 ```
-###5. Run the Development Server
+### 5. Run the Development Server
 ```bash
 python manage.py runserver
 ```
-###6. Access the App in Your Browser
+### 6. Access the App in Your Browser
 Open your browser and navigate to:
 ```cpp
 http://127.0.0.1:8000/
 ```
-###How It Works
+### How It Works
 The project follows Django’s MTV (Model-Template-View) architecture.
 
 All CRUD operations are handled within the employee_data app.
