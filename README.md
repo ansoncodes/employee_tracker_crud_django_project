@@ -61,8 +61,7 @@ The homepage allows adding or editing employee data.
 
 A separate list view displays all employee records with options to update or delete.
 
-License
-This project is open source and available under the MIT License.
+
 
 
 
