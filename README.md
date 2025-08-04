@@ -26,7 +26,7 @@ This is a simple web-based Employee Management System built with Django. It allo
 ```bash
 git clone https://github.com/your-username/employee_tracker_crud_django_project.git
 cd employee_tracker_crud_django_project
-
+```
 ### 2. Create and Activate a Virtual Environment
 ```bash
 python -m venv venv
