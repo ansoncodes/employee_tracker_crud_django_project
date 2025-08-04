@@ -66,6 +66,4 @@ This project is open source and available under the MIT License.
 
 
 
----
 
-Let me know if you want me to generate a sample `requirements.txt` or push the project to GitHub with Git commands.
