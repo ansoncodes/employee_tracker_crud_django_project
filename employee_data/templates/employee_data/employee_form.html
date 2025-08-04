@@ -1,0 +1,17 @@
+{% extends "employee_data/base.html" %}
+{% load crispy_forms_tags %}
+{% block content %}
+<form action="" method="post" autocomplete="off">
+    {% csrf_token %}
+    {{ form|crispy }}
+
+    <div class="d-flex justify-content-between">
+        <button type="submit" class="btn btn-success">
+            <i class="fa-solid fa-floppy-disk"></i> Submit
+        </button>
+        <a href="{% url 'employee_list' %}" class="btn btn-secondary">
+            <i class="fa-solid fa-list"></i> Show List
+        </a>
+    </div>
+</form>
+{% endblock content %}
