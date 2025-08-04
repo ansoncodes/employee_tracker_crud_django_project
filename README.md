@@ -19,24 +19,6 @@ This is a simple web-based Employee Management System built with Django. It allo
 - HTML/CSS (Bootstrap)
 - Django Crispy Forms
 
-## Folder Structure
-
-employee_tracker_crud_django_project/
-├── employee_register/ # Django project directory
-│ ├── init.py
-│ ├── settings.py
-│ ├── urls.py
-│ └── ...
-├── employee_data/ # Django app for employee management
-│ ├── templates/
-│ ├── migrations/
-│ ├── models.py
-│ ├── views.py
-│ ├── urls.py
-│ └── ...
-├── manage.py
-├── .gitignore
-└── requirements.txt
 
 bash
 Copy
