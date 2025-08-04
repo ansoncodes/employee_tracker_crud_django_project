@@ -72,10 +72,6 @@ This project is open source and available under the MIT License.
 
 
 
----
-
-Let me know if you'd like to personalize it further (like adding your name, LinkedIn, or screenshots). I can also generate the `requirements.txt` if needed.
-
 
 
 
