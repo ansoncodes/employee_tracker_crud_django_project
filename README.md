@@ -15,7 +15,7 @@ This is a simple web-based Employee Management System built with Django. It allo
 
 - Python 3.x  
 - Django  
-- SQLite (default Django database)  
+- MySQL 
 - HTML/CSS (Bootstrap)  
 - Django Crispy Forms  
 
